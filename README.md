@@ -1,2 +1,2 @@
-# pdfConverterExe
- a desktoop that converts a pdf file to a word document
+# PDFConverter
+ A desktop app that converts a PDF file into a microsoft file document.
